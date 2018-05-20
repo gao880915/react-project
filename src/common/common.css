@@ -1,0 +1,13 @@
+.common-wrapper{
+	width:1024px;
+	margin:0 auto
+}
+.common-header-logo{
+	display: block;
+	width:200px;
+	margin: 10px auto;
+}
+
+.common-header-item{
+	line-height: 32px;
+}
